@@ -1,18 +1,17 @@
 import { useState } from 'react';
 
 // Subcomponent to handle logo fallbacks gracefully
-function ToolLogo({ toolName, domain }) {
+function ToolLogo({ toolName, domain, preGeneratedLogoUrl }) {
     const [errorLevel, setErrorLevel] = useState(0);
 
-    // 1. Try Clearbit (high quality but sometimes misses or blocks)
-    // 2. Try Icon.horse (good generic fallback for favicons)
-    // 3. Try Google Favicon (almost always works, but small)
-    // 4. Fallback to generic AI SVG icon
+    // 1. Try provided Google Favicon URL first
+    // 2. Try Clearbit (high quality but sometimes misses or blocks)
+    // 3. Try Icon.horse (good generic fallback for favicons)
     const sources = [
+        preGeneratedLogoUrl, // Mostly Google Favicon
         `https://logo.clearbit.com/${domain}`,
-        `https://icon.horse/icon/${domain}`,
-        `https://www.google.com/s2/favicons?domain=${domain}&sz=128`
-    ];
+        `https://icon.horse/icon/${domain}`
+    ].filter(Boolean);
 
     const handleError = () => {
         setErrorLevel(prev => prev + 1);
@@ -51,11 +50,16 @@ export default function ToolCard({ tool }) {
     return (
         <div className="tool-card">
             <div className="card-header">
-                <ToolLogo toolName={tool.name} domain={domain} />
+                <ToolLogo toolName={tool.name} domain={domain} preGeneratedLogoUrl={tool.logoUrl} />
                 <span className="category-tag">{tool.category}</span>
             </div>
             <h3 className="card-title">{tool.name}</h3>
             <p className="card-desc" title={tool.description}>{tool.description}</p>
+            {tool.use_case && (
+                <div style={{ fontSize: '0.85rem', color: 'var(--primary)', marginBottom: '16px', fontWeight: '500' }}>
+                    {tool.use_case}
+                </div>
+            )}
 
             <div className="card-footer">
                 <span className="pricing-label">
