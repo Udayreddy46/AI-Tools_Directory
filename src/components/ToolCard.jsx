@@ -35,7 +35,7 @@ function ToolLogo({ toolName, domain, preGeneratedLogoUrl }) {
     );
 }
 
-export default function ToolCard({ tool }) {
+export default function ToolCard({ tool, highlighted }) {
     let domain = '';
     const navigate = useNavigate();
 
@@ -47,7 +47,7 @@ export default function ToolCard({ tool }) {
     }
 
     return (
-        <div className="tool-card" onClick={() => navigate(`/tool/${tool.id}`)} style={{ cursor: 'pointer' }}>
+        <div className={`tool-card ${highlighted ? 'highlighted' : ''}`} onClick={() => navigate(`/tool/${tool.id}`)} style={{ cursor: 'pointer' }}>
             <div className="card-header">
                 <ToolLogo toolName={tool.name} domain={domain} preGeneratedLogoUrl={tool.logoUrl} />
                 <span className="category-tag">{tool.category}</span>

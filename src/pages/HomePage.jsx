@@ -6,6 +6,24 @@ import ToolGrid from '../components/ToolGrid';
 
 const ITEMS_PER_PAGE = 12;
 
+// Helper to detect if a search string maps to a specific category
+const detectCategoryKeywords = (query) => {
+    const q = query.toLowerCase();
+
+    if (q.includes('writ') || q.includes('copy')) return 'Writing';
+    if (q.includes('video')) return 'Video';
+    if (q.includes('image') || q.includes('art') || q.includes('photo')) return 'Image';
+    if (q.includes('cod') || q.includes('develop') || q.includes('program')) return 'Coding';
+    if (q.includes('research')) return 'Research';
+    if (q.includes('audio') || q.includes('voice') || q.includes('music') || q.includes('sound')) return 'Audio';
+    if (q.includes('productiv') || q.includes('workspace') || q.includes('task')) return 'Productivity';
+    if (q.includes('market') || q.includes('seo') || q.includes('sale')) return 'Marketing';
+    if (q.includes('automat')) return 'Automation';
+    if (q.includes('assistant') || q.includes('chat')) return 'AI Assistant';
+
+    return null;
+};
+
 export default function HomePage() {
     const [searchTerm, setSearchTerm] = useState('');
     const [activeCategory, setActiveCategory] = useState('All');
@@ -19,15 +37,32 @@ export default function HomePage() {
 
     // Filter tools
     const filteredTools = useMemo(() => {
+        const lowerSearch = searchTerm.toLowerCase().trim();
+        const inferredCategory = lowerSearch ? detectCategoryKeywords(lowerSearch) : null;
+
         return toolsData.filter(tool => {
-            const lowerSearch = searchTerm.toLowerCase();
-            const matchesSearch =
+            // 1. Direct Text Match
+            const matchesSearchText =
                 tool.name.toLowerCase().includes(lowerSearch) ||
                 tool.description.toLowerCase().includes(lowerSearch) ||
-                tool.category.toLowerCase().includes(lowerSearch); // New feature: Search matches category
+                tool.category.toLowerCase().includes(lowerSearch);
 
+            // 2. Synonymous Category Match
+            const matchesInferredCategory = Boolean(inferredCategory && tool.category === inferredCategory);
+
+            const matchesSearch = lowerSearch === '' || matchesSearchText || matchesInferredCategory;
             const matchesCategory = activeCategory === 'All' || tool.category === activeCategory;
-            return matchesSearch && matchesCategory;
+
+            const isMatch = matchesSearch && matchesCategory;
+
+            // Highlight logic: Only highlight if there is an active search term
+            if (isMatch) {
+                tool.highlighted = Boolean(lowerSearch !== '');
+            } else {
+                tool.highlighted = false;
+            }
+
+            return isMatch;
         });
     }, [searchTerm, activeCategory]);
 
