@@ -1,7 +1,8 @@
 import { useState, useMemo } from 'react';
 import { toolsData } from '../data/tools';
-import Header from '../components/Header';
-import FilterBar from '../components/FilterBar';
+import HeroSection from '../components/HeroSection';
+import FeaturedSection from '../components/FeaturedSection';
+import CategorySection from '../components/CategorySection';
 import ToolGrid from '../components/ToolGrid';
 
 const ITEMS_PER_PAGE = 12;
@@ -66,12 +67,8 @@ export default function HomePage() {
         });
     }, [searchTerm, activeCategory]);
 
-    // Pagination slice
     const displayedTools = filteredTools.slice(0, visibleCount);
     const hasMore = visibleCount < filteredTools.length;
-
-    // Handlers
-    const handleLoadMore = () => setVisibleCount(prev => prev + ITEMS_PER_PAGE);
 
     const handleSearchChange = (val) => {
         setSearchTerm(val);
@@ -80,25 +77,48 @@ export default function HomePage() {
 
     const handleCategoryChange = (val) => {
         setActiveCategory(val);
+        setSearchTerm(''); // Clear search on category click for better UX
         setVisibleCount(ITEMS_PER_PAGE);
     };
 
+    // Extract some featured tools from the DB for the hero section
+    const featuredTools = useMemo(() => toolsData.filter(t => t.pricing === 'Premium' || t.pricing === 'Paid').slice(0, 4), []);
+    const trendingTools = useMemo(() => toolsData.filter(t => t.pricing === 'Freemium').slice(0, 4), []);
+
     return (
         <>
-            <Header searchTerm={searchTerm} setSearchTerm={handleSearchChange} />
-            <FilterBar
+            <HeroSection searchTerm={searchTerm} setSearchTerm={handleSearchChange} />
+
+            {!searchTerm && activeCategory === 'All' && (
+                <FeaturedSection tools={featuredTools} title="Featured AI Tools" icon="⭐" />
+            )}
+
+            <CategorySection
                 categories={categories}
                 activeCategory={activeCategory}
                 setActiveCategory={handleCategoryChange}
             />
-            <ToolGrid tools={displayedTools} />
+
+            <section id="tools" style={{ padding: '32px 0 0' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '32px' }}>
+                    <h2 className="section-title" style={{ margin: 0 }}>
+                        💻 AI Tools Directory
+                    </h2>
+                    <span style={{ color: 'var(--text-muted)' }}>{filteredTools.length} results</span>
+                </div>
+                <ToolGrid tools={displayedTools} />
+            </section>
 
             {hasMore && (
                 <div className="pagination">
-                    <button className="load-more-btn" onClick={handleLoadMore}>
+                    <button className="load-more-btn" onClick={() => setVisibleCount(p => p + ITEMS_PER_PAGE)}>
                         Load More Tools
                     </button>
                 </div>
+            )}
+
+            {!searchTerm && activeCategory === 'All' && (
+                <FeaturedSection tools={trendingTools} title="Trending AI Tools This Week" icon="🔥" />
             )}
         </>
     );

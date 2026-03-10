@@ -47,10 +47,22 @@ export default function ToolCard({ tool, highlighted }) {
     }
 
     return (
-        <div className={`tool-card ${highlighted ? 'highlighted' : ''}`} onClick={() => navigate(`/tool/${tool.id}`)} style={{ cursor: 'pointer' }}>
+        <div className={`tool-card ${highlighted ? 'highlighted' : ''}`} onClick={() => navigate(`/tool/${tool.id}`)} style={{ cursor: 'pointer', position: 'relative' }}>
             <div className="card-header">
                 <ToolLogo toolName={tool.name} domain={domain} preGeneratedLogoUrl={tool.logoUrl} />
                 <span className="category-tag">{tool.category}</span>
+
+                <button
+                    className="bookmark-btn"
+                    onClick={(e) => { e.stopPropagation(); alert('Bookmark feature coming soon!'); }}
+                    style={{ position: 'absolute', top: '24px', right: '24px', color: 'var(--text-muted)', transition: 'color 0.2s', padding: '4px' }}
+                    onMouseEnter={(e) => e.currentTarget.style.color = 'var(--primary)'}
+                    onMouseLeave={(e) => e.currentTarget.style.color = 'var(--text-muted)'}
+                >
+                    <svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                        <path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"></path>
+                    </svg>
+                </button>
             </div>
             <h3 className="card-title">{tool.name}</h3>
             <p className="card-desc" title={tool.description}>{tool.description}</p>
