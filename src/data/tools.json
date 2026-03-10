@@ -2,2701 +2,2401 @@
   {
     "name": "ChatGPT",
     "category": "AI Assistant",
-    "description": "AI chatbot that helps with writing, coding, research, and problem solving.",
+    "description": "Leading AI chatbot by OpenAI for general tasks.",
     "website": "https://chat.openai.com",
     "logo": "https://www.google.com/s2/favicons?domain=chat.openai.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Conversational AI assistant"
+    "pricing": "Freemium"
   },
   {
     "name": "Claude",
     "category": "AI Assistant",
-    "description": "Advanced AI assistant by Anthropic highly skilled in reasoning.",
+    "description": "Advanced AI by Anthropic with a focus on reasoning.",
     "website": "https://claude.ai",
     "logo": "https://www.google.com/s2/favicons?domain=claude.ai&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Conversational AI assistant"
+    "pricing": "Freemium"
   },
   {
-    "name": "Gemini",
+    "name": "Google Gemini",
     "category": "AI Assistant",
-    "description": "Multimodal AI model by Google for writing and analysis.",
+    "description": "Multimodal AI assistant integrated into Google.",
     "website": "https://gemini.google.com",
     "logo": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Conversational AI assistant"
+    "pricing": "Freemium"
   },
   {
     "name": "Perplexity",
     "category": "Research",
-    "description": "AI-powered search engine for fast, cited answers.",
+    "description": "AI search engine that provides cited answers.",
     "website": "https://perplexity.ai",
     "logo": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=128",
-    "pricing": "Freemium",
-    "use_case": "AI Search Engine"
+    "pricing": "Freemium"
   },
   {
-    "name": "Midjourney",
-    "category": "Image",
-    "description": "AI tool that creates high-quality images from text prompts.",
-    "website": "https://midjourney.com",
-    "logo": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "AI Art Generation"
+    "name": "Microsoft Copilot",
+    "category": "AI Assistant",
+    "description": "AI companion integrated into Microsoft 365.",
+    "website": "https://copilot.microsoft.com",
+    "logo": "https://www.google.com/s2/favicons?domain=copilot.microsoft.com&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "Runway",
-    "category": "Video",
-    "description": "AI video editing and generation platform for creators.",
-    "website": "https://runwayml.com",
-    "logo": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "AI Video Generation"
+    "name": "Meta AI",
+    "category": "AI Assistant",
+    "description": "AI assistant built into WhatsApp, FB, and Insta.",
+    "website": "https://meta.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=meta.ai&sz=128",
+    "pricing": "Free"
+  },
+  {
+    "name": "Pi",
+    "category": "AI Assistant",
+    "description": "Personal empathetic AI assistant by Inflection.",
+    "website": "https://pi.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=pi.ai&sz=128",
+    "pricing": "Free"
+  },
+  {
+    "name": "Poe",
+    "category": "AI Assistant",
+    "description": "Chat platform aggregating multiple AI models.",
+    "website": "https://poe.com",
+    "logo": "https://www.google.com/s2/favicons?domain=poe.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "You.com",
+    "category": "Search",
+    "description": "Private, customizable AI search engine.",
+    "website": "https://you.com",
+    "logo": "https://www.google.com/s2/favicons?domain=you.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Phind",
+    "category": "Search",
+    "description": "AI search engine tailored for developers.",
+    "website": "https://phind.com",
+    "logo": "https://www.google.com/s2/favicons?domain=phind.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Grok",
+    "category": "AI Assistant",
+    "description": "AI integrated into X (Twitter) by xAI.",
+    "website": "https://grok.x.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=grok.x.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "HuggingChat",
+    "category": "AI Assistant",
+    "description": "Open-source AI chat interface by Hugging Face.",
+    "website": "https://huggingface.co/chat",
+    "logo": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+    "pricing": "Free"
+  },
+  {
+    "name": "Character.ai",
+    "category": "AI Assistant",
+    "description": "Chat with AI characters and personalities.",
+    "website": "https://character.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=character.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Replika",
+    "category": "AI Assistant",
+    "description": "AI companion that cares and listens.",
+    "website": "https://replika.com",
+    "logo": "https://www.google.com/s2/favicons?domain=replika.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Andi",
+    "category": "Search",
+    "description": "Generative AI search that looks like a chatbot.",
+    "website": "https://andisearch.com",
+    "logo": "https://www.google.com/s2/favicons?domain=andisearch.com&sz=128",
+    "pricing": "Free"
   },
   {
     "name": "Jasper",
     "category": "Writing",
-    "description": "AI content generator for blogs, marketing, and copy.",
+    "description": "AI marketing and content generation platform.",
     "website": "https://jasper.ai",
     "logo": "https://www.google.com/s2/favicons?domain=jasper.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Marketing Copywriting"
+    "pricing": "Paid"
   },
   {
     "name": "Copy.ai",
     "category": "Writing",
-    "description": "AI tool for generating marketing copy and emails.",
+    "description": "AI copywriting tool for social media and blogs.",
     "website": "https://copy.ai",
     "logo": "https://www.google.com/s2/favicons?domain=copy.ai&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Marketing Copywriting"
-  },
-  {
-    "name": "Notion AI",
-    "category": "Productivity",
-    "description": "AI assistant embedded in Notion for notes and tasks.",
-    "website": "https://notion.so",
-    "logo": "https://www.google.com/s2/favicons?domain=notion.so&sz=128",
-    "pricing": "Paid",
-    "use_case": "Workspace AI"
-  },
-  {
-    "name": "Canva AI",
-    "category": "Design",
-    "description": "AI generative design tools built into Canva.",
-    "website": "https://canva.com",
-    "logo": "https://www.google.com/s2/favicons?domain=canva.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Graphic Design"
+    "pricing": "Freemium"
   },
   {
     "name": "Grammarly",
     "category": "Writing",
-    "description": "AI grammar, spelling, and writing assistant.",
+    "description": "AI spelling, grammar, and tone assistant.",
     "website": "https://grammarly.com",
     "logo": "https://www.google.com/s2/favicons?domain=grammarly.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Writing enhancement"
+    "pricing": "Freemium"
   },
   {
-    "name": "Synthesia",
-    "category": "Video",
-    "description": "AI avatar video generator from text scripts.",
-    "website": "https://synthesia.io",
-    "logo": "https://www.google.com/s2/favicons?domain=synthesia.io&sz=128",
-    "pricing": "Paid",
-    "use_case": "AI Spokesperson Videos"
+    "name": "QuillBot",
+    "category": "Writing",
+    "description": "AI paraphrasing tool and summarizer.",
+    "website": "https://quillbot.com",
+    "logo": "https://www.google.com/s2/favicons?domain=quillbot.com&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "ElevenLabs",
-    "category": "Audio",
-    "description": "AI realistic voice generation and text-to-speech platform.",
-    "website": "https://elevenlabs.io",
-    "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-    "pricing": "Freemium",
-    "use_case": "AI Voiceovers"
+    "name": "WriteSonic",
+    "category": "Writing",
+    "description": "AI writer and SEO content generator.",
+    "website": "https://writesonic.com",
+    "logo": "https://www.google.com/s2/favicons?domain=writesonic.com&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "Descript",
-    "category": "Audio",
-    "description": "AI audio and video editing platform using transcripts.",
-    "website": "https://descript.com",
-    "logo": "https://www.google.com/s2/favicons?domain=descript.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Audio/Video Editing"
+    "name": "Rytr",
+    "category": "Writing",
+    "description": "Affordable AI writing assistant for fast content.",
+    "website": "https://rytr.me",
+    "logo": "https://www.google.com/s2/favicons?domain=rytr.me&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "Leonardo AI",
+    "name": "Anyword",
+    "category": "Writing",
+    "description": "Data-driven AI copywriting for marketers.",
+    "website": "https://anyword.com",
+    "logo": "https://www.google.com/s2/favicons?domain=anyword.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Wordtune",
+    "category": "Writing",
+    "description": "AI-powered writing companion that rewrites text.",
+    "website": "https://wordtune.com",
+    "logo": "https://www.google.com/s2/favicons?domain=wordtune.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Hemingway AI",
+    "category": "Writing",
+    "description": "Famous editor now with AI to fix sentences.",
+    "website": "https://hemingwayapp.com",
+    "logo": "https://www.google.com/s2/favicons?domain=hemingwayapp.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Sudowrite",
+    "category": "Writing",
+    "description": "AI writing assistant tailored for fiction authors.",
+    "website": "https://sudowrite.com",
+    "logo": "https://www.google.com/s2/favicons?domain=sudowrite.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "NovelAI",
+    "category": "Writing",
+    "description": "AI-assisted story telling and text generation.",
+    "website": "https://novelai.net",
+    "logo": "https://www.google.com/s2/favicons?domain=novelai.net&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Lex",
+    "category": "Writing",
+    "description": "Minimalist modern word processor with AI.",
+    "website": "https://lex.page",
+    "logo": "https://www.google.com/s2/favicons?domain=lex.page&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Jenni AI",
+    "category": "Writing",
+    "description": "AI writing assistant for academic papers.",
+    "website": "https://jenni.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=jenni.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Simplified",
+    "category": "Writing",
+    "description": "All-in-one AI writing and design app.",
+    "website": "https://simplified.com",
+    "logo": "https://www.google.com/s2/favicons?domain=simplified.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "HyperWrite",
+    "category": "Writing",
+    "description": "Personal AI writing assistant for web browsers.",
+    "website": "https://hyperwriteai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=hyperwriteai.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Frase",
+    "category": "Writing",
+    "description": "AI software for SEO research and content writing.",
+    "website": "https://frase.io",
+    "logo": "https://www.google.com/s2/favicons?domain=frase.io&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Scalenut",
+    "category": "Writing",
+    "description": "AI SEO content creation and optimization.",
+    "website": "https://scalenut.com",
+    "logo": "https://www.google.com/s2/favicons?domain=scalenut.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "NeuralText",
+    "category": "Writing",
+    "description": "AI writer and SEO platform.",
+    "website": "https://neuraltext.com",
+    "logo": "https://www.google.com/s2/favicons?domain=neuraltext.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Moonbeam",
+    "category": "Writing",
+    "description": "AI writing assistant for long-form essays.",
+    "website": "https://gomoonbeam.com",
+    "logo": "https://www.google.com/s2/favicons?domain=gomoonbeam.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Bearly AI",
+    "category": "Writing",
+    "description": "Desktop app for reading, writing, and creating.",
+    "website": "https://bearly.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=bearly.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Typewise",
+    "category": "Writing",
+    "description": "AI writing tool pushing productivity.",
+    "website": "https://typewise.app",
+    "logo": "https://www.google.com/s2/favicons?domain=typewise.app&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "TextCortex",
+    "category": "Writing",
+    "description": "Customizable AI companion for writing.",
+    "website": "https://textcortex.com",
+    "logo": "https://www.google.com/s2/favicons?domain=textcortex.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Humbot",
+    "category": "Writing",
+    "description": "AI text humanizer.",
+    "website": "https://humbot.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=humbot.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "StealthWriter",
+    "category": "Writing",
+    "description": "Rewrites AI content to look human.",
+    "website": "https://stealthwriter.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=stealthwriter.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Undetectable AI",
+    "category": "Writing",
+    "description": "AI detector and humanizer.",
+    "website": "https://undetectable.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=undetectable.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Midjourney",
     "category": "Image",
-    "description": "AI image generator customized for game assets and art.",
-    "website": "https://leonardo.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=128",
-    "pricing": "Freemium",
-    "use_case": "AI Art Generation"
+    "description": "Incredibly realistic AI art generation via Discord.",
+    "website": "https://midjourney.com",
+    "logo": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=128",
+    "pricing": "Paid"
   },
   {
     "name": "Stable Diffusion",
     "category": "Image",
-    "description": "Open-source AI image generation model by Stability AI.",
+    "description": "Open-source, highly capable AI image model.",
     "website": "https://stability.ai",
     "logo": "https://www.google.com/s2/favicons?domain=stability.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "AI Art Generation"
+    "pricing": "Free"
+  },
+  {
+    "name": "DALL-E 3",
+    "category": "Image",
+    "description": "OpenAI's image generator, built into ChatGPT.",
+    "website": "https://openai.com/dall-e-3",
+    "logo": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Leonardo AI",
+    "category": "Image",
+    "description": "AI image generator for games and concept art.",
+    "website": "https://leonardo.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Adobe Firefly",
+    "category": "Image",
+    "description": "Commercially safe AI image creation tool.",
+    "website": "https://firefly.adobe.com",
+    "logo": "https://www.google.com/s2/favicons?domain=firefly.adobe.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Ideogram",
+    "category": "Image",
+    "description": "AI image generator highly skilled at typography.",
+    "website": "https://ideogram.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=ideogram.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Playground AI",
+    "category": "Image",
+    "description": "Free-to-use AI image creation platform.",
+    "website": "https://playgroundai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=playgroundai.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Krea",
+    "category": "Image",
+    "description": "Real-time AI generation and upscaling.",
+    "website": "https://krea.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=krea.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Magnific AI",
+    "category": "Image",
+    "description": "High-resolution AI image upscaler and enhancer.",
+    "website": "https://magnific.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=magnific.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Topaz Photo AI",
+    "category": "Image",
+    "description": "AI software to clean and upscale photos.",
+    "website": "https://topazlabs.com",
+    "logo": "https://www.google.com/s2/favicons?domain=topazlabs.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Civitai",
+    "category": "Image",
+    "description": "Platform for sharing Stable Diffusion models.",
+    "website": "https://civitai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=civitai.com&sz=128",
+    "pricing": "Free"
+  },
+  {
+    "name": "SeaArt",
+    "category": "Image",
+    "description": "AI art creation and model sharing platform.",
+    "website": "https://seaart.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=seaart.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Lexica",
+    "category": "Image",
+    "description": "Search engine and generator for AI art.",
+    "website": "https://lexica.art",
+    "logo": "https://www.google.com/s2/favicons?domain=lexica.art&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "NightCafe",
+    "category": "Image",
+    "description": "AI art generator using multiple algorithms.",
+    "website": "https://creator.nightcafe.studio",
+    "logo": "https://www.google.com/s2/favicons?domain=creator.nightcafe.studio&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Craiyon",
+    "category": "Image",
+    "description": "Free online AI image generator (formerly DALL-E mini).",
+    "website": "https://craiyon.com",
+    "logo": "https://www.google.com/s2/favicons?domain=craiyon.com&sz=128",
+    "pricing": "Free"
+  },
+  {
+    "name": "Mage.space",
+    "category": "Image",
+    "description": "Fast, free Stable Diffusion generator.",
+    "website": "https://mage.space",
+    "logo": "https://www.google.com/s2/favicons?domain=mage.space&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Artbreeder",
+    "category": "Image",
+    "description": "Collaborative AI art breeding platform.",
+    "website": "https://artbreeder.com",
+    "logo": "https://www.google.com/s2/favicons?domain=artbreeder.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "DreamStudio",
+    "category": "Image",
+    "description": "Stability AI's official web generation tool.",
+    "website": "https://dreamstudio.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=dreamstudio.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Canva Magic Media",
+    "category": "Image",
+    "description": "AI image generator integrated inside Canva.",
+    "website": "https://canva.com",
+    "logo": "https://www.google.com/s2/favicons?domain=canva.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Photoroom",
+    "category": "Image",
+    "description": "AI photo editor for e-commerce products.",
+    "website": "https://photoroom.com",
+    "logo": "https://www.google.com/s2/favicons?domain=photoroom.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Remove.bg",
+    "category": "Image",
+    "description": "AI tool to instantly remove image backgrounds.",
+    "website": "https://remove.bg",
+    "logo": "https://www.google.com/s2/favicons?domain=remove.bg&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Clipdrop",
+    "category": "Image",
+    "description": "Suite of AI image editing tools by Jasper.",
+    "website": "https://clipdrop.co",
+    "logo": "https://www.google.com/s2/favicons?domain=clipdrop.co&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Let's Enhance",
+    "category": "Image",
+    "description": "AI tool to upscale and enhance images.",
+    "website": "https://letsenhance.io",
+    "logo": "https://www.google.com/s2/favicons?domain=letsenhance.io&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Fotor AI",
+    "category": "Image",
+    "description": "Online photo editor with AI suite.",
+    "website": "https://fotor.com",
+    "logo": "https://www.google.com/s2/favicons?domain=fotor.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Cutout.pro",
+    "category": "Image",
+    "description": "AI background removal and photo editing.",
+    "website": "https://cutout.pro",
+    "logo": "https://www.google.com/s2/favicons?domain=cutout.pro&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Recraft",
+    "category": "Image",
+    "description": "AI vector art generator for designers.",
+    "website": "https://recraft.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=recraft.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Kittl",
+    "category": "Image",
+    "description": "AI design tool tailored for merchandise.",
+    "website": "https://kittl.com",
+    "logo": "https://www.google.com/s2/favicons?domain=kittl.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Runway",
+    "category": "Video",
+    "description": "Pioneering AI video generation platform.",
+    "website": "https://runwayml.com",
+    "logo": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Sora",
+    "category": "Video",
+    "description": "Ultra-realistic AI text-to-video by OpenAI.",
+    "website": "https://openai.com/sora",
+    "logo": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Pika",
+    "category": "Video",
+    "description": "Idea-to-video platform powered by AI.",
+    "website": "https://pika.art",
+    "logo": "https://www.google.com/s2/favicons?domain=pika.art&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Luma Dream Machine",
+    "category": "Video",
+    "description": "Fast, high-quality AI video generation model.",
+    "website": "https://lumalabs.ai/dream-machine",
+    "logo": "https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Synthesia",
+    "category": "Video",
+    "description": "AI avatar video generator from text.",
+    "website": "https://synthesia.io",
+    "logo": "https://www.google.com/s2/favicons?domain=synthesia.io&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "HeyGen",
+    "category": "Video",
+    "description": "Generate talking avatar videos with AI.",
+    "website": "https://heygen.com",
+    "logo": "https://www.google.com/s2/favicons?domain=heygen.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "InVideo AI",
+    "category": "Video",
+    "description": "Create complete videos from a text prompt.",
+    "website": "https://invideo.io",
+    "logo": "https://www.google.com/s2/favicons?domain=invideo.io&sz=128",
+    "pricing": "Freemium"
   },
   {
     "name": "Pictory",
     "category": "Video",
-    "description": "AI tool to convert long-form text and content into short videos.",
+    "description": "Convert long-form text or blogs into videos.",
     "website": "https://pictory.ai",
     "logo": "https://www.google.com/s2/favicons?domain=pictory.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Video Repurposing"
+    "pricing": "Paid"
   },
   {
-    "name": "SurferSEO",
+    "name": "Fliki",
+    "category": "Video",
+    "description": "Turn text into videos with AI voices.",
+    "website": "https://fliki.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=fliki.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Opus Clip",
+    "category": "Video",
+    "description": "Repurpose long videos into shorts automatically.",
+    "website": "https://opus.pro",
+    "logo": "https://www.google.com/s2/favicons?domain=opus.pro&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Veed.io",
+    "category": "Video",
+    "description": "Video editor with powerful AI tools.",
+    "website": "https://veed.io",
+    "logo": "https://www.google.com/s2/favicons?domain=veed.io&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Munch",
+    "category": "Video",
+    "description": "AI video repurposing platform.",
+    "website": "https://getmunch.com",
+    "logo": "https://www.google.com/s2/favicons?domain=getmunch.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Vidyo.ai",
+    "category": "Video",
+    "description": "Make short videos from long ones instantly.",
+    "website": "https://vidyo.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=vidyo.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "CapCut",
+    "category": "Video",
+    "description": "Video editor with free AI generation features.",
+    "website": "https://capcut.com",
+    "logo": "https://www.google.com/s2/favicons?domain=capcut.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Wonder Dynamics",
+    "category": "Video",
+    "description": "AI tool to insert CG characters into live action.",
+    "website": "https://wonderdynamics.com",
+    "logo": "https://www.google.com/s2/favicons?domain=wonderdynamics.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Kaiber",
+    "category": "Video",
+    "description": "AI creative video maker for musicians.",
+    "website": "https://kaiber.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=kaiber.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Klap",
+    "category": "Video",
+    "description": "Turn YouTube videos into TikToks via AI.",
+    "website": "https://klap.app",
+    "logo": "https://www.google.com/s2/favicons?domain=klap.app&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "DeepBrain AI",
+    "category": "Video",
+    "description": "AI video generator with hyper-realistic avatars.",
+    "website": "https://deepbrain.io",
+    "logo": "https://www.google.com/s2/favicons?domain=deepbrain.io&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Haiper",
+    "category": "Video",
+    "description": "Free access AI video generation platform.",
+    "website": "https://haiper.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=haiper.ai&sz=128",
+    "pricing": "Free"
+  },
+  {
+    "name": "Kling AI",
+    "category": "Video",
+    "description": "High quality text-to-video AI model.",
+    "website": "https://klingai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=klingai.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "ElevenLabs",
+    "category": "Audio",
+    "description": "Industry leading AI voice generator.",
+    "website": "https://elevenlabs.io",
+    "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Descript",
+    "category": "Audio",
+    "description": "Edit audio and video like a text document.",
+    "website": "https://descript.com",
+    "logo": "https://www.google.com/s2/favicons?domain=descript.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Suno",
+    "category": "Audio",
+    "description": "Create incredible full songs from text prompts.",
+    "website": "https://suno.com",
+    "logo": "https://www.google.com/s2/favicons?domain=suno.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Udio",
+    "category": "Audio",
+    "description": "High fidelity AI music generation platform.",
+    "website": "https://udio.com",
+    "logo": "https://www.google.com/s2/favicons?domain=udio.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Murf.ai",
+    "category": "Audio",
+    "description": "Professional AI voiceover studio.",
+    "website": "https://murf.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=murf.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Speechify",
+    "category": "Audio",
+    "description": "AI text-to-speech reader for web and apps.",
+    "website": "https://speechify.com",
+    "logo": "https://www.google.com/s2/favicons?domain=speechify.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Lovo",
+    "category": "Audio",
+    "description": "AI voice generator and text-to-speech.",
+    "website": "https://lovo.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=lovo.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "WellSaid Labs",
+    "category": "Audio",
+    "description": "Enterprise-grade AI voiceover platform.",
+    "website": "https://wellsaidlabs.com",
+    "logo": "https://www.google.com/s2/favicons?domain=wellsaidlabs.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Play.ht",
+    "category": "Audio",
+    "description": "AI text to speech generator with cloned voices.",
+    "website": "https://play.ht",
+    "logo": "https://www.google.com/s2/favicons?domain=play.ht&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Resemble AI",
+    "category": "Audio",
+    "description": "AI voice generator specializing in cloning.",
+    "website": "https://resemble.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=resemble.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Boomy",
+    "category": "Audio",
+    "description": "Make instant generative music tracks.",
+    "website": "https://boomy.com",
+    "logo": "https://www.google.com/s2/favicons?domain=boomy.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Soundraw",
+    "category": "Audio",
+    "description": "AI music generator for content creators.",
+    "website": "https://soundraw.io",
+    "logo": "https://www.google.com/s2/favicons?domain=soundraw.io&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Mubert",
+    "category": "Audio",
+    "description": "AI generative music platform.",
+    "website": "https://mubert.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mubert.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Adobe Podcast",
+    "category": "Audio",
+    "description": "AI audio recording and editing on the web.",
+    "website": "https://podcast.adobe.com",
+    "logo": "https://www.google.com/s2/favicons?domain=podcast.adobe.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Lalal.ai",
+    "category": "Audio",
+    "description": "AI vocal and instrumental stem splitter.",
+    "website": "https://lalal.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=lalal.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Vocal Remover",
+    "category": "Audio",
+    "description": "Free AI tool to isolate vocals.",
+    "website": "https://vocalremover.org",
+    "logo": "https://www.google.com/s2/favicons?domain=vocalremover.org&sz=128",
+    "pricing": "Free"
+  },
+  {
+    "name": "Kits AI",
+    "category": "Audio",
+    "description": "AI voice platform for musicians.",
+    "website": "https://kits.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=kits.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Voiceify",
+    "category": "Audio",
+    "description": "Create AI covers with famous voices.",
+    "website": "https://voiceify.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=voiceify.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "AudioPen",
+    "category": "Audio",
+    "description": "AI tool that turns voice notes into text.",
+    "website": "https://audiopen.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=audiopen.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "GitHub Copilot",
+    "category": "Coding",
+    "description": "The most popular AI pair programmer.",
+    "website": "https://github.com/features/copilot",
+    "logo": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Cursor",
+    "category": "Coding",
+    "description": "AI-first code editor built on VS Code.",
+    "website": "https://cursor.com",
+    "logo": "https://www.google.com/s2/favicons?domain=cursor.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Devin",
+    "category": "Coding",
+    "description": "The first autonomous AI software engineer.",
+    "website": "https://cognition-labs.com",
+    "logo": "https://www.google.com/s2/favicons?domain=cognition-labs.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Claude 3.5 Sonnet",
+    "category": "Coding",
+    "description": "Anthropic's top-tier coding model.",
+    "website": "https://claude.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=claude.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Codeium",
+    "category": "Coding",
+    "description": "Free and fast AI code completion toolkit.",
+    "website": "https://codeium.com",
+    "logo": "https://www.google.com/s2/favicons?domain=codeium.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Tabnine",
+    "category": "Coding",
+    "description": "AI code assistant prioritizing privacy.",
+    "website": "https://tabnine.com",
+    "logo": "https://www.google.com/s2/favicons?domain=tabnine.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Replit Ghostwriter",
+    "category": "Coding",
+    "description": "AI coding assistant built into Replit.",
+    "website": "https://replit.com",
+    "logo": "https://www.google.com/s2/favicons?domain=replit.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Amazon Q",
+    "category": "Coding",
+    "description": "Generative AI coding assistant for AWS.",
+    "website": "https://aws.amazon.com/q",
+    "logo": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "v0 by Vercel",
+    "category": "Coding",
+    "description": "Generative UI system built by Vercel.",
+    "website": "https://v0.dev",
+    "logo": "https://www.google.com/s2/favicons?domain=v0.dev&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Bolt.new",
+    "category": "Coding",
+    "description": "AI full-stack web development sandbox.",
+    "website": "https://bolt.new",
+    "logo": "https://www.google.com/s2/favicons?domain=bolt.new&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Sourcegraph Cody",
+    "category": "Coding",
+    "description": "AI coding assistant that knows your codebase.",
+    "website": "https://sourcegraph.com/cody",
+    "logo": "https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Pieces",
+    "category": "Coding",
+    "description": "AI workflow copilot for developers.",
+    "website": "https://pieces.app",
+    "logo": "https://www.google.com/s2/favicons?domain=pieces.app&sz=128",
+    "pricing": "Free"
+  },
+  {
+    "name": "Code Llama",
+    "category": "Coding",
+    "description": "Open-source coding model by Meta.",
+    "website": "https://ai.meta.com/llama",
+    "logo": "https://www.google.com/s2/favicons?domain=ai.meta.com&sz=128",
+    "pricing": "Free"
+  },
+  {
+    "name": "Mutable AI",
+    "category": "Coding",
+    "description": "AI accelerated software development.",
+    "website": "https://mutable.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=mutable.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Bito",
+    "category": "Coding",
+    "description": "AI programming assistant to write code faster.",
+    "website": "https://bito.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=bito.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "CodiumAI",
+    "category": "Coding",
+    "description": "AI to generate meaningful tests for your code.",
+    "website": "https://codium.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=codium.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Mentat",
+    "category": "Coding",
+    "description": "AI coding assistant that edits multiple files.",
+    "website": "https://mentat.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=mentat.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Supermaven",
+    "category": "Coding",
+    "description": "Fastest code completion AI with 1M context.",
+    "website": "https://supermaven.com",
+    "logo": "https://www.google.com/s2/favicons?domain=supermaven.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "WebSim",
+    "category": "Coding",
+    "description": "AI that simulates the web and creates apps.",
+    "website": "https://websim.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=websim.ai&sz=128",
+    "pricing": "Free"
+  },
+  {
+    "name": "Notion AI",
+    "category": "Productivity",
+    "description": "AI baked directly into your Notion workspace.",
+    "website": "https://notion.so",
+    "logo": "https://www.google.com/s2/favicons?domain=notion.so&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Glean",
+    "category": "Productivity",
+    "description": "AI-powered enterprise search for teams.",
+    "website": "https://glean.com",
+    "logo": "https://www.google.com/s2/favicons?domain=glean.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Dust",
+    "category": "Productivity",
+    "description": "Custom AI assistants for your company.",
+    "website": "https://dust.tt",
+    "logo": "https://www.google.com/s2/favicons?domain=dust.tt&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Otter.ai",
+    "category": "Productivity",
+    "description": "AI meeting transcription and notes.",
+    "website": "https://otter.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=otter.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Fireflies.ai",
+    "category": "Productivity",
+    "description": "AI meeting assistant to record and transcribe.",
+    "website": "https://fireflies.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=fireflies.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Fathom",
+    "category": "Productivity",
+    "description": "Free AI meeting assistant for Zoom.",
+    "website": "https://fathom.video",
+    "logo": "https://www.google.com/s2/favicons?domain=fathom.video&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Read AI",
+    "category": "Productivity",
+    "description": "AI meeting summaries and analytics.",
+    "website": "https://read.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=read.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Superhuman",
+    "category": "Productivity",
+    "description": "AI-powered email client for founders.",
+    "website": "https://superhuman.com",
+    "logo": "https://www.google.com/s2/favicons?domain=superhuman.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Sana",
+    "category": "Productivity",
+    "description": "AI knowledge platform for enterprises.",
+    "website": "https://sanalabs.com",
+    "logo": "https://www.google.com/s2/favicons?domain=sanalabs.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Mem",
+    "category": "Productivity",
+    "description": "AI-powered workspace and note-taking app.",
+    "website": "https://mem.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=mem.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Taskade",
+    "category": "Productivity",
+    "description": "AI-powered team collaboration and tasks.",
+    "website": "https://taskade.com",
+    "logo": "https://www.google.com/s2/favicons?domain=taskade.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Routine",
+    "category": "Productivity",
+    "description": "Task and calendar app with AI features.",
+    "website": "https://routine.co",
+    "logo": "https://www.google.com/s2/favicons?domain=routine.co&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Motion",
+    "category": "Productivity",
+    "description": "AI calendar that plans your day automatically.",
+    "website": "https://usemotion.com",
+    "logo": "https://www.google.com/s2/favicons?domain=usemotion.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Reclaim",
+    "category": "Productivity",
+    "description": "Smart AI calendar assistant for Google.",
+    "website": "https://reclaim.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=reclaim.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "ClickUp AI",
+    "category": "Productivity",
+    "description": "AI project management features in ClickUp.",
+    "website": "https://clickup.com",
+    "logo": "https://www.google.com/s2/favicons?domain=clickup.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Asana Intelligence",
+    "category": "Productivity",
+    "description": "AI enhancements inside Asana.",
+    "website": "https://asana.com",
+    "logo": "https://www.google.com/s2/favicons?domain=asana.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Zoom AI Companion",
+    "category": "Productivity",
+    "description": "Built-in AI for Zoom meetings.",
+    "website": "https://zoom.us",
+    "logo": "https://www.google.com/s2/favicons?domain=zoom.us&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Granola",
+    "category": "Productivity",
+    "description": "AI notepad for meetings on Mac.",
+    "website": "https://granola.so",
+    "logo": "https://www.google.com/s2/favicons?domain=granola.so&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Rewind",
+    "category": "Productivity",
+    "description": "AI that remembers everything you've seen on Mac.",
+    "website": "https://rewind.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=rewind.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Surfer SEO",
     "category": "Marketing",
-    "description": "AI tool to rank your articles on Google using NLP.",
+    "description": "AI tool to optimize content for organic search.",
     "website": "https://surferseo.com",
     "logo": "https://www.google.com/s2/favicons?domain=surferseo.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "SEO Optimization"
+    "pricing": "Paid"
   },
   {
-    "name": "Frase",
+    "name": "HubSpot ChatSpot",
     "category": "Marketing",
-    "description": "AI tool for fast SEO content research and creation.",
-    "website": "https://frase.io",
-    "logo": "https://www.google.com/s2/favicons?domain=frase.io&sz=128",
-    "pricing": "Paid",
-    "use_case": "SEO Content"
+    "description": "AI assistant for HubSpot CRM.",
+    "website": "https://chatspot.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=chatspot.ai&sz=128",
+    "pricing": "Free"
   },
   {
-    "name": "Scalenut",
+    "name": "Lavender",
     "category": "Marketing",
-    "description": "AI SEO content research and writing platform.",
-    "website": "https://scalenut.com",
-    "logo": "https://www.google.com/s2/favicons?domain=scalenut.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "SEO Content"
+    "description": "AI email assistant for sales teams.",
+    "website": "https://lavender.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=lavender.ai&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "OmniPulse",
+    "name": "Apollo AI",
+    "category": "Marketing",
+    "description": "AI sales intelligence and outreach platform.",
+    "website": "https://apollo.io",
+    "logo": "https://www.google.com/s2/favicons?domain=apollo.io&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "AdCreative.ai",
+    "category": "Marketing",
+    "description": "Generate ad creatives with AI instantly.",
+    "website": "https://adcreative.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=adcreative.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Hootsuite OwlyWriter",
+    "category": "Marketing",
+    "description": "AI social media post generator.",
+    "website": "https://hootsuite.com",
+    "logo": "https://www.google.com/s2/favicons?domain=hootsuite.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Lately",
+    "category": "Marketing",
+    "description": "AI content repurposer for social media.",
+    "website": "https://lately.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=lately.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Mutiny",
+    "category": "Marketing",
+    "description": "AI website personalization for B2B.",
+    "website": "https://mutinyhq.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mutinyhq.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "6sense",
+    "category": "Marketing",
+    "description": "AI predictive intelligence for sales.",
+    "website": "https://6sense.com",
+    "logo": "https://www.google.com/s2/favicons?domain=6sense.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Gong",
+    "category": "Marketing",
+    "description": "AI revenue intelligence platform.",
+    "website": "https://gong.io",
+    "logo": "https://www.google.com/s2/favicons?domain=gong.io&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Seamless.ai",
+    "category": "Marketing",
+    "description": "AI search engine for B2B sales leads.",
+    "website": "https://seamless.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=seamless.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Clearbit",
+    "category": "Marketing",
+    "description": "AI B2B data activation platform.",
+    "website": "https://clearbit.com",
+    "logo": "https://www.google.com/s2/favicons?domain=clearbit.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Instantly.ai",
+    "category": "Marketing",
+    "description": "AI cold email outreach platform.",
+    "website": "https://instantly.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=instantly.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Consensus",
     "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://omnipulse.net",
-    "logo": "https://www.google.com/s2/favicons?domain=omnipulse.net&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated research workflow"
+    "description": "AI search engine for scientific research papers.",
+    "website": "https://consensus.app",
+    "logo": "https://www.google.com/s2/favicons?domain=consensus.app&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "VisionAssist",
+    "name": "Elicit",
+    "category": "Research",
+    "description": "AI research assistant to analyze research papers.",
+    "website": "https://elicit.com",
+    "logo": "https://www.google.com/s2/favicons?domain=elicit.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "SciSpace",
+    "category": "Research",
+    "description": "AI copilot for reading and understanding papers.",
+    "website": "https://typeset.io",
+    "logo": "https://www.google.com/s2/favicons?domain=typeset.io&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "ChatPDF",
+    "category": "Research",
+    "description": "Chat with any PDF document using AI.",
+    "website": "https://chatpdf.com",
+    "logo": "https://www.google.com/s2/favicons?domain=chatpdf.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Julius AI",
+    "category": "Research",
+    "description": "AI data analyst to analyze and visualize data.",
+    "website": "https://julius.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=julius.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Rose AI",
+    "category": "Research",
+    "description": "AI-powered data platform for finance.",
+    "website": "https://rose.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=rose.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Rows",
+    "category": "Research",
+    "description": "Spreadsheet with built-in AI data analysis.",
+    "website": "https://rows.com",
+    "logo": "https://www.google.com/s2/favicons?domain=rows.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Akkio",
+    "category": "Research",
+    "description": "No-code AI platform for analytics predicting.",
+    "website": "https://akkio.com",
+    "logo": "https://www.google.com/s2/favicons?domain=akkio.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Polymer",
+    "category": "Research",
+    "description": "AI business intelligence without code.",
+    "website": "https://polymersearch.com",
+    "logo": "https://www.google.com/s2/favicons?domain=polymersearch.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Zapier Central",
     "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://visionassist.com",
-    "logo": "https://www.google.com/s2/favicons?domain=visionassist.com&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated automation workflow"
+    "description": "AI bots that automate your daily workflows.",
+    "website": "https://zapier.com/central",
+    "logo": "https://www.google.com/s2/favicons?domain=zapier.com&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "EchoPulse",
+    "name": "Make AI",
+    "category": "Automation",
+    "description": "AI workflow automation integrated into Make.",
+    "website": "https://make.com",
+    "logo": "https://www.google.com/s2/favicons?domain=make.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Relume",
+    "category": "Automation",
+    "description": "AI site builder for Webflow and Figma.",
+    "website": "https://relume.io",
+    "logo": "https://www.google.com/s2/favicons?domain=relume.io&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Framer AI",
+    "category": "Automation",
+    "description": "Design and publish websites with AI.",
+    "website": "https://framer.com",
+    "logo": "https://www.google.com/s2/favicons?domain=framer.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Durable",
+    "category": "Automation",
+    "description": "Build a website with AI in 30 seconds.",
+    "website": "https://durable.co",
+    "logo": "https://www.google.com/s2/favicons?domain=durable.co&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "10Web",
+    "category": "Automation",
+    "description": "AI website builder on WordPress.",
+    "website": "https://10web.io",
+    "logo": "https://www.google.com/s2/favicons?domain=10web.io&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Hostinger AI Builder",
+    "category": "Automation",
+    "description": "Automated website creation from Hostinger.",
+    "website": "https://hostinger.com",
+    "logo": "https://www.google.com/s2/favicons?domain=hostinger.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Spline AI",
+    "category": "Automation",
+    "description": "AI 3D modeling and generation platform.",
+    "website": "https://spline.design",
+    "logo": "https://www.google.com/s2/favicons?domain=spline.design&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "CSM AI",
+    "category": "Automation",
+    "description": "Image-to-3D AI generation.",
+    "website": "https://csm.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=csm.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Gamma",
+    "category": "Presentation",
+    "description": "AI presentation and document generator.",
+    "website": "https://gamma.app",
+    "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Tome",
+    "category": "Presentation",
+    "description": "Generative storytelling presentation format.",
+    "website": "https://tome.app",
+    "logo": "https://www.google.com/s2/favicons?domain=tome.app&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Beautiful.ai",
+    "category": "Presentation",
+    "description": "Presentation maker with automated AI design.",
+    "website": "https://beautiful.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=beautiful.ai&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Pitch",
+    "category": "Presentation",
+    "description": "Collaborative presentations with AI drafts.",
+    "website": "https://pitch.com",
+    "logo": "https://www.google.com/s2/favicons?domain=pitch.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Writeside",
+    "category": "Writing",
+    "description": "AI document assistant.",
+    "website": "https://writeside.com",
+    "logo": "https://www.google.com/s2/favicons?domain=writeside.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Peppertype",
+    "category": "Writing",
+    "description": "AI content generator for scale.",
+    "website": "https://peppertype.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=peppertype.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Copysmith",
+    "category": "Writing",
+    "description": "AI copy generator for eCommerce.",
+    "website": "https://copysmith.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=copysmith.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "ClosersCopy",
+    "category": "Writing",
+    "description": "AI copywriting software.",
+    "website": "https://closerscopy.com",
+    "logo": "https://www.google.com/s2/favicons?domain=closerscopy.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "ParagraphAI",
+    "category": "Writing",
+    "description": "AI writing app.",
+    "website": "https://paragraphai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=paragraphai.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Chibi AI",
+    "category": "Writing",
+    "description": "AI writing assistant.",
+    "website": "https://chibi.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=chibi.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Texta",
+    "category": "Writing",
+    "description": "AI article writer.",
+    "website": "https://texta.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=texta.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Kafkai",
+    "category": "Writing",
+    "description": "AI article generator.",
+    "website": "https://kafkai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=kafkai.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Articoolo",
+    "category": "Writing",
+    "description": "AI article writer.",
+    "website": "https://articoolo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=articoolo.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Article Forge",
+    "category": "Writing",
+    "description": "Bulk AI article writer.",
+    "website": "https://articleforge.com",
+    "logo": "https://www.google.com/s2/favicons?domain=articleforge.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "GrowthBar",
     "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://echopulse.co",
-    "logo": "https://www.google.com/s2/favicons?domain=echopulse.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated marketing workflow"
+    "description": "AI SEO tool.",
+    "website": "https://growthbarseo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=growthbarseo.com&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "VoiceForge",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://voiceforge.com",
-    "logo": "https://www.google.com/s2/favicons?domain=voiceforge.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated ai assistant workflow"
+    "name": "Outranking",
+    "category": "Marketing",
+    "description": "AI SEO software.",
+    "website": "https://outranking.io",
+    "logo": "https://www.google.com/s2/favicons?domain=outranking.io&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "CyberStudio",
+    "name": "INK",
+    "category": "Marketing",
+    "description": "AI SEO writing.",
+    "website": "https://inkforall.com",
+    "logo": "https://www.google.com/s2/favicons?domain=inkforall.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "MarketMuse",
+    "category": "Marketing",
+    "description": "AI content planning.",
+    "website": "https://marketmuse.com",
+    "logo": "https://www.google.com/s2/favicons?domain=marketmuse.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "NeuronWriter",
+    "category": "Marketing",
+    "description": "AI SEO optimization.",
+    "website": "https://neuronwriter.com",
+    "logo": "https://www.google.com/s2/favicons?domain=neuronwriter.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Predis.ai",
+    "category": "Marketing",
+    "description": "AI social media tool.",
+    "website": "https://predis.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=predis.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Ocoya",
+    "category": "Marketing",
+    "description": "AI social media scheduling.",
+    "website": "https://ocoya.com",
+    "logo": "https://www.google.com/s2/favicons?domain=ocoya.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Pencil",
+    "category": "Marketing",
+    "description": "AI ad generator.",
+    "website": "https://trypencil.com",
+    "logo": "https://www.google.com/s2/favicons?domain=trypencil.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Smartwyre",
+    "category": "Marketing",
+    "description": "AI marketing pricing.",
+    "website": "https://smartwyre.com",
+    "logo": "https://www.google.com/s2/favicons?domain=smartwyre.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Optimove",
+    "category": "Marketing",
+    "description": "AI CRM marketing.",
+    "website": "https://optimove.com",
+    "logo": "https://www.google.com/s2/favicons?domain=optimove.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Veed AI",
     "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://cyberstudio.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=cyberstudio.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
+    "description": "AI video generation tools.",
+    "website": "https://veed.io/ai",
+    "logo": "https://www.google.com/s2/favicons?domain=veed.io&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "CodePro",
+    "name": "DeepBrain",
+    "category": "Video",
+    "description": "AI avatars.",
+    "website": "https://deepbrain.io",
+    "logo": "https://www.google.com/s2/favicons?domain=deepbrain.io&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "BHuman",
+    "category": "Video",
+    "description": "Personalized AI videos.",
+    "website": "https://bhuman.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=bhuman.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Creative Reality",
+    "category": "Video",
+    "description": "D-ID's AI video generation.",
+    "website": "https://d-id.com",
+    "logo": "https://www.google.com/s2/favicons?domain=d-id.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "SadTalker",
+    "category": "Video",
+    "description": "Audio to video AI.",
+    "website": "https://sadtalker.github.io",
+    "logo": "https://www.google.com/s2/favicons?domain=sadtalker.github.io&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Wombo Dream",
     "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://codepro.com",
-    "logo": "https://www.google.com/s2/favicons?domain=codepro.com&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
+    "description": "Mobile AI art generator.",
+    "website": "https://dream.wombo.art",
+    "logo": "https://www.google.com/s2/favicons?domain=dream.wombo.art&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "PixelCore",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://pixelcore.co",
-    "logo": "https://www.google.com/s2/favicons?domain=pixelcore.co&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "SynthetSync",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://synthetsync.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=synthetsync.ai&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "QuantumLens",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://quantumlens.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=quantumlens.ai&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "NeuroCore",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://neurocore.co",
-    "logo": "https://www.google.com/s2/favicons?domain=neurocore.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "TextHub",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://texthub.com",
-    "logo": "https://www.google.com/s2/favicons?domain=texthub.com&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "VeraAssist",
+    "name": "StarryAI",
     "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://veraassist.io",
-    "logo": "https://www.google.com/s2/favicons?domain=veraassist.io&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated image workflow"
+    "description": "Create art with AI.",
+    "website": "https://starryai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=starryai.com&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "AuraBuddy",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://aurabuddy.co",
-    "logo": "https://www.google.com/s2/favicons?domain=aurabuddy.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "AutoHub",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://autohub.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=autohub.dev&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "AeroCore",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://aerocore.com",
-    "logo": "https://www.google.com/s2/favicons?domain=aerocore.com&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "NeuroGenius",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://neurogenius.io",
-    "logo": "https://www.google.com/s2/favicons?domain=neurogenius.io&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "AeroPulse",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://aeropulse.me",
-    "logo": "https://www.google.com/s2/favicons?domain=aeropulse.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "AeroChat",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://aerochat.net",
-    "logo": "https://www.google.com/s2/favicons?domain=aerochat.net&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "NexBuddy",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://nexbuddy.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=nexbuddy.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "NexX",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://nexx.com",
-    "logo": "https://www.google.com/s2/favicons?domain=nexx.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "NeuroMatrix",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://neuromatrix.io",
-    "logo": "https://www.google.com/s2/favicons?domain=neuromatrix.io&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "EchoHub",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://echohub.io",
-    "logo": "https://www.google.com/s2/favicons?domain=echohub.io&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "IntelPilot",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://intelpilot.io",
-    "logo": "https://www.google.com/s2/favicons?domain=intelpilot.io&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "GeniVoice",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://genivoice.net",
-    "logo": "https://www.google.com/s2/favicons?domain=genivoice.net&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "MindSpark",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://mindspark.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=mindspark.dev&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "BrainCore",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://braincore.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=braincore.xyz&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "VisionAI",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://visionai.app",
-    "logo": "https://www.google.com/s2/favicons?domain=visionai.app&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "NeuroForge",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://neuroforge.co",
-    "logo": "https://www.google.com/s2/favicons?domain=neuroforge.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "LogicCraft",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://logiccraft.app",
-    "logo": "https://www.google.com/s2/favicons?domain=logiccraft.app&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "CyberPlus",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://cyberplus.so",
-    "logo": "https://www.google.com/s2/favicons?domain=cyberplus.so&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "EchoBuddy",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://echobuddy.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=echobuddy.tech&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "DataScript",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://datascript.so",
-    "logo": "https://www.google.com/s2/favicons?domain=datascript.so&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "GeniMatrix",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://genimatrix.io",
-    "logo": "https://www.google.com/s2/favicons?domain=genimatrix.io&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "IntelFlow",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://intelflow.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=intelflow.tech&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "CogniFlow",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://cogniflow.co",
-    "logo": "https://www.google.com/s2/favicons?domain=cogniflow.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "QuantumFlow",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://quantumflow.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=quantumflow.tech&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "QuantumPulse",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://quantumpulse.app",
-    "logo": "https://www.google.com/s2/favicons?domain=quantumpulse.app&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "AuraWave",
+    "name": "Deep Dream Generator",
     "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://aurawave.me",
-    "logo": "https://www.google.com/s2/favicons?domain=aurawave.me&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated image workflow"
+    "description": "Google's deep dream.",
+    "website": "https://deepdreamgenerator.com",
+    "logo": "https://www.google.com/s2/favicons?domain=deepdreamgenerator.com&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "IntelSync",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://intelsync.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=intelsync.xyz&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated research workflow"
+    "name": "Hotpot",
+    "category": "Image",
+    "description": "AI art and design.",
+    "website": "https://hotpot.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=hotpot.ai&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "OmniStudio",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://omnistudio.net",
-    "logo": "https://www.google.com/s2/favicons?domain=omnistudio.net&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated video workflow"
+    "name": "PromptBase",
+    "category": "Image",
+    "description": "Marketplace for AI prompts.",
+    "website": "https://promptbase.com",
+    "logo": "https://www.google.com/s2/favicons?domain=promptbase.com&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "VeraSearch",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://verasearch.me",
-    "logo": "https://www.google.com/s2/favicons?domain=verasearch.me&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "PixelVision",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://pixelvision.so",
-    "logo": "https://www.google.com/s2/favicons?domain=pixelvision.so&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "EchoAssist",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://echoassist.me",
-    "logo": "https://www.google.com/s2/favicons?domain=echoassist.me&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "AutoLite",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://autolite.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=autolite.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "QuantumSync",
+    "name": "Altered Studio",
     "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://quantumsync.com",
-    "logo": "https://www.google.com/s2/favicons?domain=quantumsync.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated audio workflow"
+    "description": "AI voice changer.",
+    "website": "https://altered.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=altered.ai&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "VeraLens",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://veralens.co",
-    "logo": "https://www.google.com/s2/favicons?domain=veralens.co&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "SynapseMate",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://synapsemate.so",
-    "logo": "https://www.google.com/s2/favicons?domain=synapsemate.so&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "IdeaMatrix",
+    "name": "Voicemod",
     "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://ideamatrix.so",
-    "logo": "https://www.google.com/s2/favicons?domain=ideamatrix.so&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated audio workflow"
+    "description": "Real-time AI voice changer.",
+    "website": "https://voicemod.net",
+    "logo": "https://www.google.com/s2/favicons?domain=voicemod.net&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "AuraSphere",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://aurasphere.co",
-    "logo": "https://www.google.com/s2/favicons?domain=aurasphere.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "GeniStudio",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://genistudio.com",
-    "logo": "https://www.google.com/s2/favicons?domain=genistudio.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "FlowAI",
+    "name": "Koe Recast",
     "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://flowai.so",
-    "logo": "https://www.google.com/s2/favicons?domain=flowai.so&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated audio workflow"
+    "description": "AI voice changer.",
+    "website": "https://koe.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=koe.ai&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "CogniStudio",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://cognistudio.app",
-    "logo": "https://www.google.com/s2/favicons?domain=cognistudio.app&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "FlowPulse",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://flowpulse.co",
-    "logo": "https://www.google.com/s2/favicons?domain=flowpulse.co&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "MindAssist",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://mindassist.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=mindassist.xyz&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "BrainLink",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://brainlink.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=brainlink.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "VoiceShift",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://voiceshift.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=voiceshift.tech&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "AeroX",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://aerox.so",
-    "logo": "https://www.google.com/s2/favicons?domain=aerox.so&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "CogniSpark",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://cognispark.so",
-    "logo": "https://www.google.com/s2/favicons?domain=cognispark.so&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "TextMatrix",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://textmatrix.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=textmatrix.tech&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "SynapseCraft",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://synapsecraft.com",
-    "logo": "https://www.google.com/s2/favicons?domain=synapsecraft.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "GeniGenius",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://genigenius.com",
-    "logo": "https://www.google.com/s2/favicons?domain=genigenius.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "NeuroCraft",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://neurocraft.com",
-    "logo": "https://www.google.com/s2/favicons?domain=neurocraft.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "AeroSphere",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://aerosphere.io",
-    "logo": "https://www.google.com/s2/favicons?domain=aerosphere.io&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "BrainBuddy",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://brainbuddy.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=brainbuddy.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "MindChat",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://mindchat.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=mindchat.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "AuraMax",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://auramax.co",
-    "logo": "https://www.google.com/s2/favicons?domain=auramax.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "EchoMate",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://echomate.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=echomate.tech&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "VisionCraft",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://visioncraft.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=visioncraft.dev&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "OmniForge",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://omniforge.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=omniforge.tech&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "SmartLens",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://smartlens.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=smartlens.xyz&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "CyberShift",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://cybershift.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=cybershift.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "LumiWave",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://lumiwave.co",
-    "logo": "https://www.google.com/s2/favicons?domain=lumiwave.co&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "LumiChat",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://lumichat.io",
-    "logo": "https://www.google.com/s2/favicons?domain=lumichat.io&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "CodeWave",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://codewave.co",
-    "logo": "https://www.google.com/s2/favicons?domain=codewave.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "LumiMatrix",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://lumimatrix.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=lumimatrix.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "IdeaNet",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://ideanet.so",
-    "logo": "https://www.google.com/s2/favicons?domain=ideanet.so&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "FlowStudio",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://flowstudio.co",
-    "logo": "https://www.google.com/s2/favicons?domain=flowstudio.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "AuraChat",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://aurachat.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=aurachat.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "LogicSync",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://logicsync.io",
-    "logo": "https://www.google.com/s2/favicons?domain=logicsync.io&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "EchoMax",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://echomax.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=echomax.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "IdeaSpark",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://ideaspark.me",
-    "logo": "https://www.google.com/s2/favicons?domain=ideaspark.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "TextCore",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://textcore.net",
-    "logo": "https://www.google.com/s2/favicons?domain=textcore.net&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "DataFlow",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://dataflow.com",
-    "logo": "https://www.google.com/s2/favicons?domain=dataflow.com&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "TextLink",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://textlink.net",
-    "logo": "https://www.google.com/s2/favicons?domain=textlink.net&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "NexVision",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://nexvision.net",
-    "logo": "https://www.google.com/s2/favicons?domain=nexvision.net&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "QuantumLab",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://quantumlab.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=quantumlab.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "PixelGenius",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://pixelgenius.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=pixelgenius.dev&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "CodeBot",
+    "name": "Resound",
     "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://codebot.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=codebot.tech&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated audio workflow"
+    "description": "AI podcast editor.",
+    "website": "https://resound.fm",
+    "logo": "https://www.google.com/s2/favicons?domain=resound.fm&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "LumiAssist",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://lumiassist.net",
-    "logo": "https://www.google.com/s2/favicons?domain=lumiassist.net&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
+    "name": "Cleanvoice",
+    "category": "Audio",
+    "description": "AI podcast editing.",
+    "website": "https://cleanvoice.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=cleanvoice.ai&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "OmniSpark",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://omnispark.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=omnispark.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
+    "name": "Podcastle",
+    "category": "Audio",
+    "description": "AI podcast studio.",
+    "website": "https://podcastle.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=podcastle.ai&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "AutoSpark",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://autospark.co",
-    "logo": "https://www.google.com/s2/favicons?domain=autospark.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated marketing workflow"
+    "name": "Beatoven",
+    "category": "Audio",
+    "description": "Royalty-free AI music.",
+    "website": "https://beatoven.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=beatoven.ai&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "SmartGrid",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://smartgrid.net",
-    "logo": "https://www.google.com/s2/favicons?domain=smartgrid.net&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated ai assistant workflow"
+    "name": "Ecrett Music",
+    "category": "Audio",
+    "description": "AI music generator.",
+    "website": "https://ecrettmusic.com",
+    "logo": "https://www.google.com/s2/favicons?domain=ecrettmusic.com&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "SmartLite",
+    "name": "Aiva",
+    "category": "Audio",
+    "description": "AI music composer.",
+    "website": "https://aiva.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=aiva.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Warp",
     "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://smartlite.com",
-    "logo": "https://www.google.com/s2/favicons?domain=smartlite.com&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated coding workflow"
+    "description": "AI terminal.",
+    "website": "https://warp.dev",
+    "logo": "https://www.google.com/s2/favicons?domain=warp.dev&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "CogniAssist",
+    "name": "Fig",
     "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://cogniassist.me",
-    "logo": "https://www.google.com/s2/favicons?domain=cogniassist.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
+    "description": "AI terminal assistant.",
+    "website": "https://fig.io",
+    "logo": "https://www.google.com/s2/favicons?domain=fig.io&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "EchoMatrix",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://echomatrix.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=echomatrix.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "BrainMind",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://brainmind.app",
-    "logo": "https://www.google.com/s2/favicons?domain=brainmind.app&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "BrainGenius",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://braingenius.io",
-    "logo": "https://www.google.com/s2/favicons?domain=braingenius.io&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "CodeAssist",
+    "name": "CodeWP",
     "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://codeassist.io",
-    "logo": "https://www.google.com/s2/favicons?domain=codeassist.io&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
+    "description": "AI for WordPress.",
+    "website": "https://codewp.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=codewp.ai&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "OmniScript",
+    "name": "Blackbox AI",
+    "category": "Coding",
+    "description": "AI code assistant.",
+    "website": "https://blackbox.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=blackbox.ai&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Kite",
+    "category": "Coding",
+    "description": "AI autocomplete code.",
+    "website": "https://kite.com",
+    "logo": "https://www.google.com/s2/favicons?domain=kite.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Deepnote",
+    "category": "Coding",
+    "description": "AI data notebook.",
+    "website": "https://deepnote.com",
+    "logo": "https://www.google.com/s2/favicons?domain=deepnote.com&sz=128",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "TutorAI",
     "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://omniscript.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=omniscript.tech&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated research workflow"
+    "description": "AI learning platform.",
+    "website": "https://tutorai.me",
+    "logo": "https://www.google.com/s2/favicons?domain=tutorai.me&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "PixelMax",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://pixelmax.app",
-    "logo": "https://www.google.com/s2/favicons?domain=pixelmax.app&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "MindMate",
+    "name": "Quizgecko",
     "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://mindmate.me",
-    "logo": "https://www.google.com/s2/favicons?domain=mindmate.me&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated research workflow"
+    "description": "AI quiz maker.",
+    "website": "https://quizgecko.com",
+    "logo": "https://www.google.com/s2/favicons?domain=quizgecko.com&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "AutoSearch",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://autosearch.net",
-    "logo": "https://www.google.com/s2/favicons?domain=autosearch.net&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "LumiVision",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://lumivision.app",
-    "logo": "https://www.google.com/s2/favicons?domain=lumivision.app&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "MindWave",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://mindwave.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=mindwave.ai&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "TextPulse",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://textpulse.co",
-    "logo": "https://www.google.com/s2/favicons?domain=textpulse.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "VeraAI",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://veraai.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=veraai.xyz&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "NexSync",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://nexsync.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=nexsync.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "GeniPro",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://genipro.co",
-    "logo": "https://www.google.com/s2/favicons?domain=genipro.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "QuantumBuddy",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://quantumbuddy.co",
-    "logo": "https://www.google.com/s2/favicons?domain=quantumbuddy.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "MindLite",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://mindlite.me",
-    "logo": "https://www.google.com/s2/favicons?domain=mindlite.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "IntelAI",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://intelai.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=intelai.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "AeroPilot",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://aeropilot.com",
-    "logo": "https://www.google.com/s2/favicons?domain=aeropilot.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "TextMax",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://textmax.io",
-    "logo": "https://www.google.com/s2/favicons?domain=textmax.io&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "NeuroHub",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://neurohub.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=neurohub.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "SmartSphere",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://smartsphere.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=smartsphere.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "IntelSpark",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://intelspark.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=intelspark.dev&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "SynthetLink",
+    "name": "Yip",
     "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://synthetlink.so",
-    "logo": "https://www.google.com/s2/favicons?domain=synthetlink.so&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated research workflow"
+    "description": "AI flashcard maker.",
+    "website": "https://yippity.io",
+    "logo": "https://www.google.com/s2/favicons?domain=yippity.io&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "PixelBuddy",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://pixelbuddy.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=pixelbuddy.xyz&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "CodeBase",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://codebase.io",
-    "logo": "https://www.google.com/s2/favicons?domain=codebase.io&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "AuraLite",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://auralite.io",
-    "logo": "https://www.google.com/s2/favicons?domain=auralite.io&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "IntelPro",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://intelpro.io",
-    "logo": "https://www.google.com/s2/favicons?domain=intelpro.io&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "AutoShift",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://autoshift.co",
-    "logo": "https://www.google.com/s2/favicons?domain=autoshift.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "NeuroBuddy",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://neurobuddy.net",
-    "logo": "https://www.google.com/s2/favicons?domain=neurobuddy.net&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "NovaNet",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://novanet.so",
-    "logo": "https://www.google.com/s2/favicons?domain=novanet.so&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "LogicGenius",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://logicgenius.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=logicgenius.tech&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "TextStudio",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://textstudio.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=textstudio.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "CyberPilot",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://cyberpilot.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=cyberpilot.tech&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "IdeaVoice",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://ideavoice.co",
-    "logo": "https://www.google.com/s2/favicons?domain=ideavoice.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "VisionWave",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://visionwave.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=visionwave.tech&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "DataLab",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://datalab.app",
-    "logo": "https://www.google.com/s2/favicons?domain=datalab.app&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "CodeForge",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://codeforge.so",
-    "logo": "https://www.google.com/s2/favicons?domain=codeforge.so&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "TextAssist",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://textassist.com",
-    "logo": "https://www.google.com/s2/favicons?domain=textassist.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "NovaWave",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://novawave.com",
-    "logo": "https://www.google.com/s2/favicons?domain=novawave.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "FlowCraft",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://flowcraft.me",
-    "logo": "https://www.google.com/s2/favicons?domain=flowcraft.me&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "VeraBase",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://verabase.net",
-    "logo": "https://www.google.com/s2/favicons?domain=verabase.net&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "AeroVision",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://aerovision.com",
-    "logo": "https://www.google.com/s2/favicons?domain=aerovision.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "DataCraft",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://datacraft.so",
-    "logo": "https://www.google.com/s2/favicons?domain=datacraft.so&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "IdeaScript",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://ideascript.me",
-    "logo": "https://www.google.com/s2/favicons?domain=ideascript.me&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "CogniX",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://cognix.co",
-    "logo": "https://www.google.com/s2/favicons?domain=cognix.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "SmartPlus",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://smartplus.app",
-    "logo": "https://www.google.com/s2/favicons?domain=smartplus.app&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "SmartPro",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://smartpro.co",
-    "logo": "https://www.google.com/s2/favicons?domain=smartpro.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "IdeaPilot",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://ideapilot.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=ideapilot.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "MindVoice",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://mindvoice.net",
-    "logo": "https://www.google.com/s2/favicons?domain=mindvoice.net&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "SynthetPilot",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://synthetpilot.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=synthetpilot.ai&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "DataSpark",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://dataspark.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=dataspark.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "IdeaMate",
+    "name": "Genei",
     "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://ideamate.me",
-    "logo": "https://www.google.com/s2/favicons?domain=ideamate.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated research workflow"
+    "description": "AI research tool.",
+    "website": "https://genei.io",
+    "logo": "https://www.google.com/s2/favicons?domain=genei.io&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "NexWave",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://nexwave.app",
-    "logo": "https://www.google.com/s2/favicons?domain=nexwave.app&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "NeuroLens",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://neurolens.me",
-    "logo": "https://www.google.com/s2/favicons?domain=neurolens.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "PixelPulse",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://pixelpulse.com",
-    "logo": "https://www.google.com/s2/favicons?domain=pixelpulse.com&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "GeniLite",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://genilite.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=genilite.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "ZephyrVision",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://zephyrvision.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=zephyrvision.tech&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "BrainMatrix",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://brainmatrix.com",
-    "logo": "https://www.google.com/s2/favicons?domain=brainmatrix.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "BrainGrid",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://braingrid.com",
-    "logo": "https://www.google.com/s2/favicons?domain=braingrid.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "LogicLink",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://logiclink.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=logiclink.dev&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "AeroGrid",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://aerogrid.so",
-    "logo": "https://www.google.com/s2/favicons?domain=aerogrid.so&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "TextBase",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://textbase.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=textbase.dev&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "ZephyrPro",
+    "name": "Humata",
     "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://zephyrpro.me",
-    "logo": "https://www.google.com/s2/favicons?domain=zephyrpro.me&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated research workflow"
+    "description": "Chat with PDFs.",
+    "website": "https://humata.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=humata.ai&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "AeroLens",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://aerolens.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=aerolens.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "AeroSpark",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://aerospark.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=aerospark.xyz&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "AeroMatrix",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://aeromatrix.com",
-    "logo": "https://www.google.com/s2/favicons?domain=aeromatrix.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "TextSync",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://textsync.app",
-    "logo": "https://www.google.com/s2/favicons?domain=textsync.app&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "SynapseMatrix",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://synapsematrix.app",
-    "logo": "https://www.google.com/s2/favicons?domain=synapsematrix.app&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "OmniPilot",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://omnipilot.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=omnipilot.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "NovaPlus",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://novaplus.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=novaplus.dev&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "OmniFlow",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://omniflow.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=omniflow.tech&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "IntelPulse",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://intelpulse.com",
-    "logo": "https://www.google.com/s2/favicons?domain=intelpulse.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "VisionBuddy",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://visionbuddy.net",
-    "logo": "https://www.google.com/s2/favicons?domain=visionbuddy.net&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "NexSpark",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://nexspark.io",
-    "logo": "https://www.google.com/s2/favicons?domain=nexspark.io&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "VeraCore",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://veracore.co",
-    "logo": "https://www.google.com/s2/favicons?domain=veracore.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "IdeaVision",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://ideavision.net",
-    "logo": "https://www.google.com/s2/favicons?domain=ideavision.net&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "NexStudio",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://nexstudio.net",
-    "logo": "https://www.google.com/s2/favicons?domain=nexstudio.net&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "AeroBot",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://aerobot.net",
-    "logo": "https://www.google.com/s2/favicons?domain=aerobot.net&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "FlowFlow",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://flowflow.com",
-    "logo": "https://www.google.com/s2/favicons?domain=flowflow.com&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "VoiceNet",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://voicenet.me",
-    "logo": "https://www.google.com/s2/favicons?domain=voicenet.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "CyberVision",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://cybervision.io",
-    "logo": "https://www.google.com/s2/favicons?domain=cybervision.io&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "OmniSearch",
+    "name": "DocGPT",
     "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://omnisearch.net",
-    "logo": "https://www.google.com/s2/favicons?domain=omnisearch.net&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated research workflow"
+    "description": "Document AI.",
+    "website": "https://docgpt.io",
+    "logo": "https://www.google.com/s2/favicons?domain=docgpt.io&sz=128",
+    "pricing": "Freemium"
   },
   {
-    "name": "NovaAssist",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://novaassist.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=novaassist.dev&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated productivity workflow"
+    "name": "Bloop",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Bloop.",
+    "website": "https://bloop.com",
+    "logo": "https://www.google.com/s2/favicons?domain=bloop.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "TextVoice",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://textvoice.co",
-    "logo": "https://www.google.com/s2/favicons?domain=textvoice.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "SmartChat",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://smartchat.co",
-    "logo": "https://www.google.com/s2/favicons?domain=smartchat.co&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "ZephyrScript",
+    "name": "CodeRabbit",
     "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://zephyrscript.co",
-    "logo": "https://www.google.com/s2/favicons?domain=zephyrscript.co&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
+    "description": "Enterprise AI solution by CodeRabbit.",
+    "website": "https://coderabbit.com",
+    "logo": "https://www.google.com/s2/favicons?domain=coderabbit.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "QuantumMatrix",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://quantummatrix.so",
-    "logo": "https://www.google.com/s2/favicons?domain=quantummatrix.so&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "IdeaStudio",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://ideastudio.io",
-    "logo": "https://www.google.com/s2/favicons?domain=ideastudio.io&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "VoiceSearch",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://voicesearch.com",
-    "logo": "https://www.google.com/s2/favicons?domain=voicesearch.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "AutoStudio",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://autostudio.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=autostudio.tech&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "FlowLens",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://flowlens.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=flowlens.xyz&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "CogniLens",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://cognilens.me",
-    "logo": "https://www.google.com/s2/favicons?domain=cognilens.me&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "NeuroShift",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://neuroshift.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=neuroshift.tech&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "SynthetAI",
+    "name": "Metaphor",
     "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://synthetai.me",
-    "logo": "https://www.google.com/s2/favicons?domain=synthetai.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated automation workflow"
+    "description": "Enterprise AI solution by Metaphor.",
+    "website": "https://metaphor.com",
+    "logo": "https://www.google.com/s2/favicons?domain=metaphor.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "TextScript",
+    "name": "Tavily",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Tavily.",
+    "website": "https://tavily.com",
+    "logo": "https://www.google.com/s2/favicons?domain=tavily.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "FinChat",
+    "category": "AI Assistant",
+    "description": "Enterprise AI solution by FinChat.",
+    "website": "https://finchat.com",
+    "logo": "https://www.google.com/s2/favicons?domain=finchat.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "AlphaSense",
+    "category": "Automation",
+    "description": "Enterprise AI solution by AlphaSense.",
+    "website": "https://alphasense.com",
+    "logo": "https://www.google.com/s2/favicons?domain=alphasense.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Harvey",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Harvey.",
+    "website": "https://harvey.com",
+    "logo": "https://www.google.com/s2/favicons?domain=harvey.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "CoCounsel",
+    "category": "Automation",
+    "description": "Enterprise AI solution by CoCounsel.",
+    "website": "https://cocounsel.com",
+    "logo": "https://www.google.com/s2/favicons?domain=cocounsel.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Ironclad AI",
+    "category": "Productivity",
+    "description": "Enterprise AI solution by Ironclad AI.",
+    "website": "https://ironcladai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=ironcladai.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Robin AI",
+    "category": "Productivity",
+    "description": "Enterprise AI solution by Robin AI.",
+    "website": "https://robinai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=robinai.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "DoNotPay",
+    "category": "Automation",
+    "description": "Enterprise AI solution by DoNotPay.",
+    "website": "https://donotpay.com",
+    "logo": "https://www.google.com/s2/favicons?domain=donotpay.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "EvenUp",
+    "category": "Automation",
+    "description": "Enterprise AI solution by EvenUp.",
+    "website": "https://evenup.com",
+    "logo": "https://www.google.com/s2/favicons?domain=evenup.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Spellbook",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Spellbook.",
+    "website": "https://spellbook.com",
+    "logo": "https://www.google.com/s2/favicons?domain=spellbook.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Gavel",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Gavel.",
+    "website": "https://gavel.com",
+    "logo": "https://www.google.com/s2/favicons?domain=gavel.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Casetext",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Casetext.",
+    "website": "https://casetext.com",
+    "logo": "https://www.google.com/s2/favicons?domain=casetext.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Lexis+",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Lexis+.",
+    "website": "https://lexis+.com",
+    "logo": "https://www.google.com/s2/favicons?domain=lexis+.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Vellum",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Vellum.",
+    "website": "https://vellum.com",
+    "logo": "https://www.google.com/s2/favicons?domain=vellum.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "LangChain",
+    "category": "Automation",
+    "description": "Enterprise AI solution by LangChain.",
+    "website": "https://langchain.com",
+    "logo": "https://www.google.com/s2/favicons?domain=langchain.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "LlamaIndex",
+    "category": "Automation",
+    "description": "Enterprise AI solution by LlamaIndex.",
+    "website": "https://llamaindex.com",
+    "logo": "https://www.google.com/s2/favicons?domain=llamaindex.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Pinecone",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Pinecone.",
+    "website": "https://pinecone.com",
+    "logo": "https://www.google.com/s2/favicons?domain=pinecone.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Weaviate",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Weaviate.",
+    "website": "https://weaviate.com",
+    "logo": "https://www.google.com/s2/favicons?domain=weaviate.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Milvus",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Milvus.",
+    "website": "https://milvus.com",
+    "logo": "https://www.google.com/s2/favicons?domain=milvus.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Qdrant",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Qdrant.",
+    "website": "https://qdrant.com",
+    "logo": "https://www.google.com/s2/favicons?domain=qdrant.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Chroma",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Chroma.",
+    "website": "https://chroma.com",
+    "logo": "https://www.google.com/s2/favicons?domain=chroma.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Databricks",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Databricks.",
+    "website": "https://databricks.com",
+    "logo": "https://www.google.com/s2/favicons?domain=databricks.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Snowflake Cortex",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Snowflake Cortex.",
+    "website": "https://snowflakecortex.com",
+    "logo": "https://www.google.com/s2/favicons?domain=snowflakecortex.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Scale AI",
+    "category": "Productivity",
+    "description": "Enterprise AI solution by Scale AI.",
+    "website": "https://scaleai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=scaleai.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Snorkel",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Snorkel.",
+    "website": "https://snorkel.com",
+    "logo": "https://www.google.com/s2/favicons?domain=snorkel.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Labelbox",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Labelbox.",
+    "website": "https://labelbox.com",
+    "logo": "https://www.google.com/s2/favicons?domain=labelbox.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Arize",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Arize.",
+    "website": "https://arize.com",
+    "logo": "https://www.google.com/s2/favicons?domain=arize.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Galileo",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Galileo.",
+    "website": "https://galileo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=galileo.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Parea",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Parea.",
+    "website": "https://parea.com",
+    "logo": "https://www.google.com/s2/favicons?domain=parea.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "HuggingFace",
+    "category": "Automation",
+    "description": "Enterprise AI solution by HuggingFace.",
+    "website": "https://huggingface.com",
+    "logo": "https://www.google.com/s2/favicons?domain=huggingface.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Replicate",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Replicate.",
+    "website": "https://replicate.com",
+    "logo": "https://www.google.com/s2/favicons?domain=replicate.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Baseten",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Baseten.",
+    "website": "https://baseten.com",
+    "logo": "https://www.google.com/s2/favicons?domain=baseten.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Modal",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Modal.",
+    "website": "https://modal.com",
+    "logo": "https://www.google.com/s2/favicons?domain=modal.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Together AI",
+    "category": "Productivity",
+    "description": "Enterprise AI solution by Together AI.",
+    "website": "https://togetherai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=togetherai.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Anyscale",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Anyscale.",
+    "website": "https://anyscale.com",
+    "logo": "https://www.google.com/s2/favicons?domain=anyscale.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Fireworks",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Fireworks.",
+    "website": "https://fireworks.com",
+    "logo": "https://www.google.com/s2/favicons?domain=fireworks.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "OctoAI",
+    "category": "Productivity",
+    "description": "Enterprise AI solution by OctoAI.",
+    "website": "https://octoai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=octoai.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Perplexity Pro",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Perplexity Pro.",
+    "website": "https://perplexitypro.com",
+    "logo": "https://www.google.com/s2/favicons?domain=perplexitypro.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "YouPro",
+    "category": "Automation",
+    "description": "Enterprise AI solution by YouPro.",
+    "website": "https://youpro.com",
+    "logo": "https://www.google.com/s2/favicons?domain=youpro.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Neeva (acquired)",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Neeva (acquired).",
+    "website": "https://neeva(acquired).com",
+    "logo": "https://www.google.com/s2/favicons?domain=neeva(acquired).com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Dexa",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Dexa.",
+    "website": "https://dexa.com",
+    "logo": "https://www.google.com/s2/favicons?domain=dexa.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Brave Leo",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Brave Leo.",
+    "website": "https://braveleo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=braveleo.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Phind Pro",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Phind Pro.",
+    "website": "https://phindpro.com",
+    "logo": "https://www.google.com/s2/favicons?domain=phindpro.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Sourcegraph",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Sourcegraph.",
+    "website": "https://sourcegraph.com",
+    "logo": "https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "CodeClimate",
     "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://textscript.net",
-    "logo": "https://www.google.com/s2/favicons?domain=textscript.net&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated coding workflow"
+    "description": "Enterprise AI solution by CodeClimate.",
+    "website": "https://codeclimate.com",
+    "logo": "https://www.google.com/s2/favicons?domain=codeclimate.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "BrainPilot",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://brainpilot.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=brainpilot.xyz&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "AutoChat",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://autochat.app",
-    "logo": "https://www.google.com/s2/favicons?domain=autochat.app&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "MindAI",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://mindai.co",
-    "logo": "https://www.google.com/s2/favicons?domain=mindai.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "BrainShift",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://brainshift.io",
-    "logo": "https://www.google.com/s2/favicons?domain=brainshift.io&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "NovaAI",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://novaai.so",
-    "logo": "https://www.google.com/s2/favicons?domain=novaai.so&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "EchoForge",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://echoforge.net",
-    "logo": "https://www.google.com/s2/favicons?domain=echoforge.net&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "LumiPlus",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://lumiplus.co",
-    "logo": "https://www.google.com/s2/favicons?domain=lumiplus.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "IntelStudio",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://intelstudio.co",
-    "logo": "https://www.google.com/s2/favicons?domain=intelstudio.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "VisionPulse",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://visionpulse.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=visionpulse.xyz&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "SmartMatrix",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://smartmatrix.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=smartmatrix.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "LogicPilot",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://logicpilot.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=logicpilot.tech&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "PixelHub",
+    "name": "DeepCode",
     "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://pixelhub.com",
-    "logo": "https://www.google.com/s2/favicons?domain=pixelhub.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated coding workflow"
+    "description": "Enterprise AI solution by DeepCode.",
+    "website": "https://deepcode.com",
+    "logo": "https://www.google.com/s2/favicons?domain=deepcode.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "CodeFlow",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://codeflow.co",
-    "logo": "https://www.google.com/s2/favicons?domain=codeflow.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "SmartScript",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://smartscript.com",
-    "logo": "https://www.google.com/s2/favicons?domain=smartscript.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "MindPlus",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://mindplus.me",
-    "logo": "https://www.google.com/s2/favicons?domain=mindplus.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "ZephyrChat",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://zephyrchat.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=zephyrchat.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "EchoVoice",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://echovoice.co",
-    "logo": "https://www.google.com/s2/favicons?domain=echovoice.co&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "AuraMatrix",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://auramatrix.me",
-    "logo": "https://www.google.com/s2/favicons?domain=auramatrix.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "TextLite",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://textlite.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=textlite.tech&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "MindMax",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://mindmax.me",
-    "logo": "https://www.google.com/s2/favicons?domain=mindmax.me&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "EchoNet",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://echonet.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=echonet.ai&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "VeraCraft",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://veracraft.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=veracraft.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "PixelLink",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://pixellink.co",
-    "logo": "https://www.google.com/s2/favicons?domain=pixellink.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "AeroSearch",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://aerosearch.app",
-    "logo": "https://www.google.com/s2/favicons?domain=aerosearch.app&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "QuantumStudio",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://quantumstudio.so",
-    "logo": "https://www.google.com/s2/favicons?domain=quantumstudio.so&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "EchoGenius",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://echogenius.me",
-    "logo": "https://www.google.com/s2/favicons?domain=echogenius.me&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "LogicSpark",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://logicspark.app",
-    "logo": "https://www.google.com/s2/favicons?domain=logicspark.app&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "GeniGrid",
+    "name": "Tabby",
     "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://genigrid.com",
-    "logo": "https://www.google.com/s2/favicons?domain=genigrid.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated automation workflow"
+    "description": "Enterprise AI solution by Tabby.",
+    "website": "https://tabby.com",
+    "logo": "https://www.google.com/s2/favicons?domain=tabby.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "DataAI",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://dataai.so",
-    "logo": "https://www.google.com/s2/favicons?domain=dataai.so&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "SynapseForge",
+    "name": "Continue",
     "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://synapseforge.app",
-    "logo": "https://www.google.com/s2/favicons?domain=synapseforge.app&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated automation workflow"
+    "description": "Enterprise AI solution by Continue.",
+    "website": "https://continue.com",
+    "logo": "https://www.google.com/s2/favicons?domain=continue.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "SynthetLab",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://synthetlab.net",
-    "logo": "https://www.google.com/s2/favicons?domain=synthetlab.net&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated audio workflow"
+    "name": "Safurai",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Safurai.",
+    "website": "https://safurai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=safurai.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "LogicBase",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://logicbase.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=logicbase.ai&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated marketing workflow"
+    "name": "Mutable",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Mutable.",
+    "website": "https://mutable.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mutable.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "CyberLink",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://cyberlink.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=cyberlink.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
+    "name": "Smol Developer",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Smol Developer.",
+    "website": "https://smoldeveloper.com",
+    "logo": "https://www.google.com/s2/favicons?domain=smoldeveloper.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "EchoPro",
+    "name": "Aider",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Aider.",
+    "website": "https://aider.com",
+    "logo": "https://www.google.com/s2/favicons?domain=aider.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Grit",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Grit.",
+    "website": "https://grit.com",
+    "logo": "https://www.google.com/s2/favicons?domain=grit.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Sweep",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Sweep.",
+    "website": "https://sweep.com",
+    "logo": "https://www.google.com/s2/favicons?domain=sweep.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Codium",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Codium.",
+    "website": "https://codium.com",
+    "logo": "https://www.google.com/s2/favicons?domain=codium.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "CodeScene",
     "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://echopro.so",
-    "logo": "https://www.google.com/s2/favicons?domain=echopro.so&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated coding workflow"
+    "description": "Enterprise AI solution by CodeScene.",
+    "website": "https://codescene.com",
+    "logo": "https://www.google.com/s2/favicons?domain=codescene.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "CyberChat",
+    "name": "SonarQube AI",
     "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://cyberchat.co",
-    "logo": "https://www.google.com/s2/favicons?domain=cyberchat.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
+    "description": "Enterprise AI solution by SonarQube AI.",
+    "website": "https://sonarqubeai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=sonarqubeai.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "FlowMind",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://flowmind.com",
-    "logo": "https://www.google.com/s2/favicons?domain=flowmind.com&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "DataMind",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://datamind.so",
-    "logo": "https://www.google.com/s2/favicons?domain=datamind.so&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "OmniBase",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://omnibase.net",
-    "logo": "https://www.google.com/s2/favicons?domain=omnibase.net&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "AutoSphere",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://autosphere.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=autosphere.xyz&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "AuraLab",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://auralab.co",
-    "logo": "https://www.google.com/s2/favicons?domain=auralab.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "BrainLite",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://brainlite.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=brainlite.tech&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "IdeaWave",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://ideawave.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=ideawave.dev&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "GeniShift",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://genishift.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=genishift.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "NovaVision",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://novavision.me",
-    "logo": "https://www.google.com/s2/favicons?domain=novavision.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "CyberSearch",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://cybersearch.me",
-    "logo": "https://www.google.com/s2/favicons?domain=cybersearch.me&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "NexLens",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://nexlens.so",
-    "logo": "https://www.google.com/s2/favicons?domain=nexlens.so&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "FlowSearch",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://flowsearch.co",
-    "logo": "https://www.google.com/s2/favicons?domain=flowsearch.co&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "LumiFlow",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://lumiflow.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=lumiflow.ai&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "LumiMate",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://lumimate.com",
-    "logo": "https://www.google.com/s2/favicons?domain=lumimate.com&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "SynthetShift",
+    "name": "Refact",
     "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://synthetshift.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=synthetshift.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
+    "description": "Enterprise AI solution by Refact.",
+    "website": "https://refact.com",
+    "logo": "https://www.google.com/s2/favicons?domain=refact.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "LogicMind",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://logicmind.me",
-    "logo": "https://www.google.com/s2/favicons?domain=logicmind.me&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "PixelPlus",
+    "name": "Ghostwriter",
     "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://pixelplus.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=pixelplus.dev&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated automation workflow"
+    "description": "Enterprise AI solution by Ghostwriter.",
+    "website": "https://ghostwriter.com",
+    "logo": "https://www.google.com/s2/favicons?domain=ghostwriter.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "NexChat",
+    "name": "Kodu",
+    "category": "Automation",
+    "description": "Enterprise AI solution by Kodu.",
+    "website": "https://kodu.com",
+    "logo": "https://www.google.com/s2/favicons?domain=kodu.com&sz=128",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Raycast AI",
     "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://nexchat.me",
-    "logo": "https://www.google.com/s2/favicons?domain=nexchat.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated productivity workflow"
+    "description": "Enterprise AI solution by Raycast AI.",
+    "website": "https://raycastai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=raycastai.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "LogicMax",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://logicmax.me",
-    "logo": "https://www.google.com/s2/favicons?domain=logicmax.me&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "TextGenius",
+    "name": "Alfred AI",
     "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://textgenius.net",
-    "logo": "https://www.google.com/s2/favicons?domain=textgenius.net&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated productivity workflow"
+    "description": "Enterprise AI solution by Alfred AI.",
+    "website": "https://alfredai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=alfredai.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "SynthetFlow",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://synthetflow.me",
-    "logo": "https://www.google.com/s2/favicons?domain=synthetflow.me&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "NeuroChat",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://neurochat.me",
-    "logo": "https://www.google.com/s2/favicons?domain=neurochat.me&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "SynapseSearch",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://synapsesearch.net",
-    "logo": "https://www.google.com/s2/favicons?domain=synapsesearch.net&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "AeroGenius",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://aerogenius.app",
-    "logo": "https://www.google.com/s2/favicons?domain=aerogenius.app&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "VoiceGrid",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://voicegrid.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=voicegrid.dev&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "AuraSpark",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://auraspark.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=auraspark.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "NovaStudio",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://novastudio.so",
-    "logo": "https://www.google.com/s2/favicons?domain=novastudio.so&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "CodeStudio",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://codestudio.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=codestudio.tech&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "IntelChat",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://intelchat.com",
-    "logo": "https://www.google.com/s2/favicons?domain=intelchat.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "VeraGenius",
+    "name": "MacWhisper",
     "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://veragenius.app",
-    "logo": "https://www.google.com/s2/favicons?domain=veragenius.app&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated automation workflow"
+    "description": "Enterprise AI solution by MacWhisper.",
+    "website": "https://macwhisper.com",
+    "logo": "https://www.google.com/s2/favicons?domain=macwhisper.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "VoiceMind",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://voicemind.so",
-    "logo": "https://www.google.com/s2/favicons?domain=voicemind.so&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "DataStudio",
+    "name": "Elephas",
     "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://datastudio.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=datastudio.xyz&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated automation workflow"
+    "description": "Enterprise AI solution by Elephas.",
+    "website": "https://elephas.com",
+    "logo": "https://www.google.com/s2/favicons?domain=elephas.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "FlowSync",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://flowsync.me",
-    "logo": "https://www.google.com/s2/favicons?domain=flowsync.me&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "OmniAI",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://omniai.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=omniai.dev&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "IdeaBase",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://ideabase.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=ideabase.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "VoiceBase",
-    "category": "Image",
-    "description": "AI-powered image platform for modern teams and creators.",
-    "website": "https://voicebase.com",
-    "logo": "https://www.google.com/s2/favicons?domain=voicebase.com&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated image workflow"
-  },
-  {
-    "name": "PixelMind",
-    "category": "Marketing",
-    "description": "AI-powered marketing platform for modern teams and creators.",
-    "website": "https://pixelmind.tech",
-    "logo": "https://www.google.com/s2/favicons?domain=pixelmind.tech&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated marketing workflow"
-  },
-  {
-    "name": "TextFlow",
+    "name": "Friday",
     "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://textflow.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=textflow.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
+    "description": "Enterprise AI solution by Friday.",
+    "website": "https://friday.com",
+    "logo": "https://www.google.com/s2/favicons?domain=friday.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "PixelBase",
+    "name": "Opal",
     "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://pixelbase.io",
-    "logo": "https://www.google.com/s2/favicons?domain=pixelbase.io&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated automation workflow"
+    "description": "Enterprise AI solution by Opal.",
+    "website": "https://opal.com",
+    "logo": "https://www.google.com/s2/favicons?domain=opal.com&sz=128",
+    "pricing": "Paid"
   },
   {
-    "name": "VisionGrid",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://visiongrid.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=visiongrid.ai&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "NeuroAI",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://neuroai.co",
-    "logo": "https://www.google.com/s2/favicons?domain=neuroai.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "QuantumVision",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://quantumvision.net",
-    "logo": "https://www.google.com/s2/favicons?domain=quantumvision.net&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "OmniNet",
-    "category": "Research",
-    "description": "AI-powered research platform for modern teams and creators.",
-    "website": "https://omninet.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=omninet.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated research workflow"
-  },
-  {
-    "name": "VoiceLab",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://voicelab.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=voicelab.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "MindPulse",
+    "name": "Superlist",
     "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://mindpulse.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=mindpulse.xyz&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "SynthetStudio",
-    "category": "Productivity",
-    "description": "AI-powered productivity platform for modern teams and creators.",
-    "website": "https://synthetstudio.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=synthetstudio.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated productivity workflow"
-  },
-  {
-    "name": "ZephyrBuddy",
-    "category": "Audio",
-    "description": "AI-powered audio platform for modern teams and creators.",
-    "website": "https://zephyrbuddy.net",
-    "logo": "https://www.google.com/s2/favicons?domain=zephyrbuddy.net&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated audio workflow"
-  },
-  {
-    "name": "ZephyrX",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://zephyrx.so",
-    "logo": "https://www.google.com/s2/favicons?domain=zephyrx.so&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "AuraAssist",
-    "category": "Automation",
-    "description": "AI-powered automation platform for modern teams and creators.",
-    "website": "https://auraassist.net",
-    "logo": "https://www.google.com/s2/favicons?domain=auraassist.net&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated automation workflow"
-  },
-  {
-    "name": "FlowPro",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://flowpro.ai",
-    "logo": "https://www.google.com/s2/favicons?domain=flowpro.ai&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "IntelCore",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://intelcore.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=intelcore.xyz&sz=128",
-    "pricing": "Free",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "LumiGrid",
-    "category": "Video",
-    "description": "AI-powered video platform for modern teams and creators.",
-    "website": "https://lumigrid.xyz",
-    "logo": "https://www.google.com/s2/favicons?domain=lumigrid.xyz&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated video workflow"
-  },
-  {
-    "name": "BrainMate",
-    "category": "Writing",
-    "description": "AI-powered writing platform for modern teams and creators.",
-    "website": "https://brainmate.co",
-    "logo": "https://www.google.com/s2/favicons?domain=brainmate.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated writing workflow"
-  },
-  {
-    "name": "IdeaForge",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://ideaforge.dev",
-    "logo": "https://www.google.com/s2/favicons?domain=ideaforge.dev&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated ai assistant workflow"
-  },
-  {
-    "name": "MindLens",
-    "category": "Coding",
-    "description": "AI-powered coding platform for modern teams and creators.",
-    "website": "https://mindlens.co",
-    "logo": "https://www.google.com/s2/favicons?domain=mindlens.co&sz=128",
-    "pricing": "Paid",
-    "use_case": "Automated coding workflow"
-  },
-  {
-    "name": "FlowForge",
-    "category": "AI Assistant",
-    "description": "AI-powered ai assistant platform for modern teams and creators.",
-    "website": "https://flowforge.me",
-    "logo": "https://www.google.com/s2/favicons?domain=flowforge.me&sz=128",
-    "pricing": "Freemium",
-    "use_case": "Automated ai assistant workflow"
+    "description": "Enterprise AI solution by Superlist.",
+    "website": "https://superlist.com",
+    "logo": "https://www.google.com/s2/favicons?domain=superlist.com&sz=128",
+    "pricing": "Paid"
   }
 ]
